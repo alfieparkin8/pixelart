@@ -1,0 +1,10 @@
+name: Red
+description: Red Block
+type: Wall
+health: 600
+size: 1
+requirements: [
+  lead/1
+]
+category: defense
+research: copper-wall
