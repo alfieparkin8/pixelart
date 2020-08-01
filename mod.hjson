@@ -1,0 +1,6 @@
+name: "Pixel Art"
+displayName: "[purple] Pixel Art Mod" //what displays in the mod selection menu
+author: "Alfie"
+description: "[yellow] Adds coloured blocks to the game!"
+version: "1.0"
+minGameVersion: "103"
